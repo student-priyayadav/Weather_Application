@@ -1,1 +1,0 @@
-`https://api.weatherapi.com/v1/current.json?key=9593b6de1c5a4563a44180951242410&q=New York&aqi=no`
