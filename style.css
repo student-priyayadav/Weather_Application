@@ -1,0 +1,93 @@
+body{
+    width:100vw;
+    height:100vh;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    
+ background:linear-gradient(135deg,blue,purple);
+ height: 600px;
+ width:400px;
+ border-radius: 25px;
+ text-align: center;
+
+}
+
+.inputfield{
+    border-radius: 25px; 
+    height:30px;
+    width: 300px;
+    margin-left: 10px;
+    outline:none;
+    padding: 5px;
+    font-size: medium;
+
+    
+
+}
+.searchbtn {
+    
+    border-radius: 25px;
+    height:40px;
+    width:40px;
+    margin-top: 35px;
+    outline:none;
+    cursor: pointer;
+}
+.search{
+   height: 15px; 
+}
+.location{
+color: white;
+
+}
+.temp{
+    color:white;
+     
+    
+    
+}
+.winddata{
+    color:white;
+    margin-left: 15px;
+
+}
+.windspeed{
+    color: white;
+    display: flex;
+    margin-left: 15px;
+
+}
+.humiditydata{
+    color: white;
+    margin-left: 15px;
+}
+.humidity{
+    color: white;
+    margin-left: 15px;
+
+}
+
+.weatheradvancedata{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.weatherhumudity{
+    display: flex;
+}
+
+.region{
+    color:white;
+}
+
+
+
+    
+
+
